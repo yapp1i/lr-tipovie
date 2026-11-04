@@ -1,0 +1,8 @@
+D:\c#\lr5\bin\Debug\lr5.exe.config
+D:\c#\lr5\bin\Debug\lr5.exe
+D:\c#\lr5\bin\Debug\lr5.pdb
+D:\c#\lr5\obj\Debug\lr5.csproj.AssemblyReference.cache
+D:\c#\lr5\obj\Debug\lr5.csproj.CoreCompileInputs.cache
+D:\c#\lr5\obj\Debug\lr5.exe
+D:\c#\lr5\obj\Debug\lr5.pdb
+D:\c#\lr5\obj\Debug\lr5.exe.config
